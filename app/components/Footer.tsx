@@ -10,7 +10,7 @@ export function Footer() {
   <section className="relative flex justify-center py-16 md:py-20 lg:py-24 border-b border-gray-100">
     <div className="footer-logo-container absolute left-1/2 bottom-[-130px] transform -translate-x-1/2 w-[220px] h-[260px] z-10">
       <Image
-        src="/images/logoc21.png"
+        src="/c21pagina/images/logoc21.png"
         alt="CENTURY 21 Logo"
         fill
         className="object-contain"
@@ -29,7 +29,7 @@ export function Footer() {
         <div className="footer-brand-column text-center sm:text-left">
           <div className="footer-brand-logo w-[15vw] h-[15vw] md:w-[12vw] md:h-[12vw] lg:w-[10vw] lg:h-[10vw] relative">
             <Image
-              src="/images/century21logo.svg"
+              src="/c21pagina/images/century21logo.svg"
               alt="CENTURY 21 Logo"
               fill
               className="object-contain"

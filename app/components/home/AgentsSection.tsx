@@ -48,7 +48,7 @@ export function AgentsSection() {
           >
             <div className="relative h-[250px] w-full mb-4">
               <Image
-                src="/images/careers-leader.jpg"
+                src="/c21pagina/images/careers-leader.jpg"
                 alt="Equipe de agentes imobiliários da Century 21 em frente a uma casa de luxo"
                 fill
                 className="object-cover"
@@ -72,7 +72,7 @@ export function AgentsSection() {
           >
             <div className="relative h-[250px] w-full mb-4">
               <Image
-                src="/images/careers-most-recog.jpg"
+                src="/c21pagina/images/careers-most-recog.jpg"
                 alt="Agentes imobiliários apresentando uma cozinha moderna durante uma visita"
                 fill
                 className="object-cover"
@@ -96,7 +96,7 @@ export function AgentsSection() {
           >
             <div className="relative h-[250px] w-full mb-4">
               <Image
-                src="/images/careers-most-resp.jpg"
+                src="/c21pagina/images/careers-most-resp.jpg"
                 alt="Agentes imobiliários recebendo suporte e treinamento"
                 fill
                 className="object-cover"

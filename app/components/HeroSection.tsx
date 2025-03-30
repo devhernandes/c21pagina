@@ -11,7 +11,7 @@ export function HeroSection() {
       aria-label="Menu"
     >
       <Image
-        src="/images/hero-bg.jpg"
+        src="/c21pagina/images/hero-bg.jpg"
         alt="Imagem de fundo do hero"
         fill
         className="object-cover"

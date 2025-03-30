@@ -115,7 +115,7 @@ export default function ComoOApoiamosPage() {
         <section className="w-full">
           {/* Banner principal com texto sobreposto */}
           <div className="relative w-full h-[400px]">
-            <Image src="/images/carreiras-pagina2.jpg" alt="Desenvolvimento de liderança" fill className="object-cover" />
+            <Image src="/c21pagina/images/carreiras-pagina2.jpg" alt="Desenvolvimento de liderança" fill className="object-cover" />
             <div className="absolute inset-0 flex items-center justify-center">
               <div className="bg-white p-8 max-w-2xl mx-auto text-center rounded-md shadow-md">
                 <h2 className="text-2xl md:text-3xl font-semibold text-gray-800 mb-4">

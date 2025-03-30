@@ -59,7 +59,7 @@ export default function ContatosPage() {
             </div>
             <div>
               <Image
-                src="/images/contatos-falar.jpg"
+                src="/c21pagina/images/contatos-falar.jpg"
                 alt="Profissional imobiliário a trabalhar"
                 width={600}
                 height={400}

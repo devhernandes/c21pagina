@@ -6,12 +6,12 @@ export function HeroSection() {
   return (
     <section className="relative h-screen w-full" aria-label="Seção principal">
       <video
-        src="/videos/c21back-ground.mp4"
+        src="/c21pagina/videos/c21back-ground.mp4"
         autoPlay
         loop
         muted
         playsInline
-        poster="/images/video-poster.jpg"
+        poster="/c21pagina/images/video-poster.jpg"
         className="absolute inset-0 w-full h-full object-cover"
       />
 

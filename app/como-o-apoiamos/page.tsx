@@ -45,7 +45,7 @@ export default function ComoOApoiamosPage() {
           </div>
           <div className="md:w-1/2">
             <Image
-              src="/images/foto1.jpg"
+              src="/c21pagina/images/foto1.jpg"
               alt="Profissionais imobiliários da Century 21 em reunião de colaboração"
               width={650}
               height={400}
@@ -64,7 +64,7 @@ export default function ComoOApoiamosPage() {
               {/* Div da imagem */}
               <div className="w-full md:w-1/2">
                 <Image
-                  src="/images/foto2.png"
+                  src="/c21pagina/images/foto2.png"
                   alt="21Online.com platform screenshot"
                   width={600}
                   height={400}
@@ -155,7 +155,7 @@ export default function ComoOApoiamosPage() {
                   animate={isPremiosInView ? "visible" : "hidden"}
                 >
                   <Image
-                    src="/images/carreiras-reconpensas.jpg"
+                    src="/c21pagina/images/carreiras-reconpensas.jpg"
                     alt="Troféus e prémios CENTURY 21"
                     width={600}
                     height={400}

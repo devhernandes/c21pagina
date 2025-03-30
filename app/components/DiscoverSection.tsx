@@ -16,7 +16,7 @@ export function DiscoverSection() {
           viewport={{ once: true }}
         >
           <Image
-            src="/images/discover.jpg"
+            src="/c21pagina/images/discover.jpg"
             alt="Agentes imobiliários a mostrar propriedades"
             fill
             className="object-cover"

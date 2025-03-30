@@ -85,7 +85,7 @@ export function AnimatedSection() {
           }}
         >
           <Image
-            src="/images/careers-stand-out.jpg"
+            src="/c21pagina/images/careers-stand-out.jpg"
             alt="Profissionais imobiliários a trabalhar"
             fill
             className="object-cover"

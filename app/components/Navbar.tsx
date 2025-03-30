@@ -19,7 +19,7 @@ const Navbar = () => {
         <div className="relative w-48 h-12">
           <Link href="/" aria-label="Página inicial">
             <Image
-              src="/images/century21logo.svg"
+              src="/c21pagina/images/century21logo.svg"
               alt="CENTURY 21 Logo"
               fill
               className="object-contain"

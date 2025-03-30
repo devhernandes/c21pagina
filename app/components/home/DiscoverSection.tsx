@@ -23,7 +23,7 @@ export function DiscoverSection() {
           transition={{ duration: 0.8 }}
         >
           <Image
-            src="/images/careers-discover.jpg"
+            src="/c21pagina/images/careers-discover.jpg"
             alt="Agentes imobiliários a mostrar propriedades"
             fill
             className="object-cover"

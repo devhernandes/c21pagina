@@ -11,7 +11,7 @@ import Image from "next/image"
     className="relative h-[300px]"
   >
     <Image
-      src="/images/agent-1.jpg"
+      src="/c21pagina/images/agent-1.jpg"
       alt="Agente imobiliário em frente a uma casa"
       fill
       className="object-cover rounded-lg"
@@ -28,7 +28,7 @@ import Image from "next/image"
     className="relative h-[300px]"
   >
     <Image
-      src="/images/agent-2.jpg" 
+      src="/c21pagina/images/agent-2.jpg" 
       alt="Agente imobiliário em frente a uma casa"
       fill
       className="object-cover rounded-lg"
@@ -45,7 +45,7 @@ import Image from "next/image"
     className="relative h-[300px]"
   >
     <Image
-      src="/images/agent-3.jpg"
+      src="/c21pagina/images/agent-3.jpg"
       alt="Agente imobiliário em frente a uma casa" 
       fill
       className="object-cover rounded-lg"
